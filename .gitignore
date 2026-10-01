@@ -35,3 +35,6 @@ logs/
 # Build directories
 dist/
 build/
+  
+
+/node_modules/
